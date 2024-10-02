@@ -8,11 +8,11 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Arnav's Homepage"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Arnav Agrawal"
 description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://boltnav.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 
@@ -21,12 +21,12 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  avatar           : "arnav2.jpg"
+  name             : "Arnav Agrawal"
+  pronouns         : "he/him" # example: "she/her"  
+  bio              : "Theoretical Deep Learning"
+  location         : "Delhi, India"
+  employer         : "IIIT Delhi"
   uri              : # URL
   email            : "none@example.org" 
 
